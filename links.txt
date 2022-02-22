@@ -15,3 +15,6 @@ https://getbootstrap.com/docs/5.1/getting-started/download/ - Bootstrap5
 https://www.bronco.co.uk/our-ideas/how-to-add-google-recaptcha-to-a-form-phphtml/ - Captcha
 
 https://www.learningcontainer.com/mp4-sample-video-files-download/ - Sample Audio and video
+https://github.com/UmamaheshMaxwell?tab=repositories
+
+https://github.com/IndiaMartTrainings/html5-css3-repo
