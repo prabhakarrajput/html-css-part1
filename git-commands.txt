@@ -11,6 +11,7 @@ Git Commands to push the code to remote repository
 8. git push origin main - To push the changes to remote repository
 9cd D:Tra- To pull the changes from remote repository 
 10. git clone - will fetch your remote repo to your local folder
+11. git brach - will help you to check the current branch
 
 
 git config for the first time
